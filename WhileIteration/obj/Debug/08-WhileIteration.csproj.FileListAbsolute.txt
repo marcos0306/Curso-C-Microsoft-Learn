@@ -1,0 +1,7 @@
+C:\Users\marco\OneDrive\Escritorio\Curso de C# Microsoft Learn - 1126920\WhileIteration\bin\Debug\8-WhileIteration.exe.config
+C:\Users\marco\OneDrive\Escritorio\Curso de C# Microsoft Learn - 1126920\WhileIteration\bin\Debug\8-WhileIteration.exe
+C:\Users\marco\OneDrive\Escritorio\Curso de C# Microsoft Learn - 1126920\WhileIteration\bin\Debug\8-WhileIteration.pdb
+C:\Users\marco\OneDrive\Escritorio\Curso de C# Microsoft Learn - 1126920\WhileIteration\obj\Debug\08-WhileIteration.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Escritorio\Curso de C# Microsoft Learn - 1126920\WhileIteration\obj\Debug\08-WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Curso de C# Microsoft Learn - 1126920\WhileIteration\obj\Debug\8-WhileIteration.exe
+C:\Users\marco\OneDrive\Escritorio\Curso de C# Microsoft Learn - 1126920\WhileIteration\obj\Debug\8-WhileIteration.pdb
